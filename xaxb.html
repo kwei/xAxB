@@ -125,6 +125,11 @@
 			let name = document.getElementById("name").value;
 			getUserInfo(name);
 		}
+
+		window.onbeforeunload = function(){
+			let name = document.getElementById("name").value;
+			writeUserData(name);
+		}
 	</script>
 </head>
 <body>
