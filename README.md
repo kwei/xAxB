@@ -1,3 +1,4 @@
 ## xAxB
-https://kwei.github.io/xAxB/
+https://kwei.github.io/xAxB/xaxb.html
+
 
